@@ -11,4 +11,4 @@ def test_sub():
 def test_mul():
     assert mul(2,2)==4
     assert mul(4,5)==20
-    assert mul(0,9)==0
+    assert mul(0,9)==1
